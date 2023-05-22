@@ -40,6 +40,6 @@
 ## **GitHub Stats**
 [![IsabelaSilvaz](https://github-readme-stats.vercel.app/api?username=IsabelaSilvaz&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![IsabelaSilvaz](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaSilvaz&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaSilvaz&hide_progress=true&layout=compact&&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7319B7&height=120&section=footer"/>
